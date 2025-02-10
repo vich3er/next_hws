@@ -18,4 +18,4 @@ const CommentsLayout = ({children}:Props) => {
   );
 };
 
-export default CommentsLayout;
+export default  CommentsLayout;
